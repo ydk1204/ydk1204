@@ -34,7 +34,7 @@ const YDK = {
 ```
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydk1204&layout=compact&hide=jupyternotebook">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydk1204&layout=compact&hide=jupyter%20notebook">
 
 <br><br>
 
