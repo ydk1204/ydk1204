@@ -21,7 +21,7 @@
 
 ```javascript
 const YDK = {
-  "나이": "만24" | 26,
+  "나이": "만25" | 27,
   "사용 언어": ["HTML", "CSS", "Javascript", "Typescript"],
   "사용 도구": ["React", "Redux", "Context-API", "Node", "Styled-Components", "Tailwind CSS"],
   "그 외 도구": ["Git", "GitLab", "Discode", "Slack"],
